@@ -18,14 +18,16 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 The QuickImage plugin provides an eclipse-editor for viewing images.
-You can browse images one by one in fullsize or all as thumbnails.
-Use the toolbar to navigate or by single/double clicking the images.
-By default QuickImage associates its editor with .gif .jpg .jpeg .png .bmp .ico
+You can browse images one by one in fullsize or all as thumbnails. Use
+the toolbar to navigate or by single/double clicking the images. By
+default QuickImage associates its editor with .gif .jpg .jpeg .png
+.bmp .ico
 
 %description -l pl
 Wtyczka QuickImage dodaje edytor dla eclipse do podgl±du obrazków.
-Mo¿esz przegl±daæ obrazki jeden po drugim w pe³nym rozmiarze, lub wszystkie jako miniaturki.
-Domy¶lnie QuickImage kojarzy swój edytor z .gif .jpg .jpeg .png .bmp .ico
+Mo¿esz przegl±daæ obrazki jeden po drugim w pe³nym rozmiarze, lub
+wszystkie jako miniaturki. Domy¶lnie QuickImage kojarzy swój edytor z
+.gif .jpg .jpeg .png .bmp .ico
 
 %prep
 %setup -q -c
