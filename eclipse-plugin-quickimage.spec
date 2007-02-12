@@ -1,5 +1,5 @@
 Summary:	QuickImage - plugin for Eclipse
-Summary(pl.UTF-8):   QuickImage - wtyczka do środowiska Eclipse
+Summary(pl.UTF-8):	QuickImage - wtyczka do środowiska Eclipse
 Name:		eclipse-plugin-quickimage
 Version:	0.2.0
 Release:	1
