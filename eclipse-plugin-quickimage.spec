@@ -1,5 +1,5 @@
 Summary:	QuickImage - plugin for Eclipse
-Summary(pl):	QuickImage - wtyczka do ∂rodowiska Eclipse
+Summary(pl.UTF-8):   QuickImage - wtyczka do ≈õrodowiska Eclipse
 Name:		eclipse-plugin-quickimage
 Version:	0.2.0
 Release:	1
@@ -23,10 +23,10 @@ the toolbar to navigate or by single/double clicking the images. By
 default QuickImage associates its editor with .gif .jpg .jpeg .png
 .bmp .ico .
 
-%description -l pl
-Wtyczka QuickImage dodaje edytor dla eclipse do podgl±du obrazkÛw.
-Umoøliwia przegl±danie obrazkÛw jeden po drugim w pe≥nym rozmiarze,
-lub wszystkich jako miniaturkek. Domy∂lnie QuickImage kojarzy swÛj
+%description -l pl.UTF-8
+Wtyczka QuickImage dodaje edytor dla eclipse do podglƒÖdu obrazk√≥w.
+Umo≈ºliwia przeglƒÖdanie obrazk√≥w jeden po drugim w pe≈Çnym rozmiarze,
+lub wszystkich jako miniaturkek. Domy≈õlnie QuickImage kojarzy sw√≥j
 edytor z .gif .jpg .jpeg .png .bmp .ico .
 
 %prep
